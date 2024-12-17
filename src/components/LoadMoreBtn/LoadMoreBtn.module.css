@@ -1,0 +1,21 @@
+.LoadMoreBtnContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.LoadMoreBtn {
+  padding: 10px 30px;
+  border-radius: 2px;
+  background-color: #0000aa;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.LoadMoreBtn:hover {
+  background-color: #0000ff;
+  transform: scale(1.2);
+}
